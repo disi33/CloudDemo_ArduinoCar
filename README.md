@@ -7,11 +7,11 @@
   - [Accessories](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#accessories)
   
 * [Modules](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#modules)
-  - [GPS Module](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#gps-module)
-  - [ESP8266 (WiFi module)](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#esp8266-wifi-module)
-    -[Notes on ESP8266](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#notes-on-esp8266)
-    -[Additional notes](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#additional-notes)
-  - [Wireless XBOX 360 adapter](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#wireless-xbox-360-adapter)
+  * [GPS Module](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#gps-module)
+  * [ESP8266 (WiFi module)](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#esp8266-wifi-module)
+    * [Notes on ESP8266](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#notes-on-esp8266)
+    * [Additional notes](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#additional-notes)
+  * [Wireless XBOX 360 adapter](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#wireless-xbox-360-adapter)
   
 * [Software](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#software)
   - [Libraries](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#libraries)
