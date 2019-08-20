@@ -1,28 +1,29 @@
 # Table of contents
 
-* [Repository contents]()
+* [Repository contents](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#repository-contents)
 
-* [Hardware and accessories]()
-  - [Hardware]()
-  - [Accessories]()
+* [Hardware and accessories](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#hardware-and-accessories)
+  - [Hardware](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#hardware)
+  - [Accessories](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#accessories)
   
-* [Modules]()
-  - [GPS Module]()
-  - [ESP8266 (WiFi module)]()
-    -[Notes on ESP8266]()
-    -[Additional notes]()
-  - [Wireless XBOX 360 adapter]()
+* [Modules](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#modules)
+  - [GPS Module](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#gps-module)
+  - [ESP8266 (WiFi module)](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#esp8266-wifi-module)
+    -[Notes on ESP8266](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#notes-on-esp8266)
+    -[Additional notes](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#additional-notes)
+  - [Wireless XBOX 360 adapter](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#wireless-xbox-360-adapter)
   
-* [Software]()
-  - [Libraries]()
-  - [Enabling and disabling modules]()
-  - [Notes on the implementation]()
+* [Software](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#software)
+  - [Libraries](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#libraries)
+  - [Enabling and disabling modules](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#enabling-and-disabling-modules)
+  - [Notes on the implementation](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#notes-on-the-implementation)
 
 # Repository contents
 
 This repository contains:
 - The source code of the program run on the car
 - Schematics and reference pictures of the power-regulated WiFi module and the final build of the car
+  * The schematics are made with [fritzing](http://fritzing.org/home/). You can use fritzing to open the .fzz file and edit the schematics or use it to create a proper PCB.
 - A list of hardware and accessories used to finish this project
 
 # Hardware and accessories
