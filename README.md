@@ -21,7 +21,7 @@
 # Repository contents
 
 This repository contains:
-- The source code of the program run on the car
+- The source code of the program run on the car, written in the [Arduino IDE](https://www.arduino.cc/en/main/software)
 - Schematics and reference pictures of the power-regulated WiFi module and the final build of the car
   * The schematics are made with [fritzing](http://fritzing.org/home/). You can use fritzing to open the .fzz file and edit the schematics or use it to create a proper PCB.
 - A list of hardware and accessories used to finish this project
