@@ -1,3 +1,11 @@
+## Important note:
+
+If you're running into the following error while compiling, refer to the section [Notes on the implementation](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#notes-on-the-implementation) on how to resolve it:
+
+```
+lto1.exe: internal compiler error: in lto_output_varpool_node
+```
+
 # Table of contents
 
 * [Repository contents](https://github.com/disi33/CloudDemo_ArduinoCar/blob/master/README.md#repository-contents)
